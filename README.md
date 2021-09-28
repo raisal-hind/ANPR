@@ -16,7 +16,7 @@ steps to use:
 1.download the clear image from internet. or else use the images that i provided here. if you have images on your own hand then you it also. but it must be clear.
 before using your own images just refer the images here for sample.
 
-2.click the anpr/aplr.ipynb file copy and paste the code as i did in jupyter. 
+2.click the ANPR or ALPR.ipynb file copy and paste the code as i did in jupyter. 
 
 3.pass the correct path of your image in image = img.imread("give the exact image path")
 and run the program as one by one tags.
