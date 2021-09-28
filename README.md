@@ -1,6 +1,9 @@
 # ANPR
 anpr/alpr using python machine learning for cars and it is working for all worldwide vehicles..
 
+ANPR stands for automatic number plate recognition.
+ALPR stands for automatic license plate recognition. mainly used for detecting & recognizing the number from images.
+
 prerequists:
  1.python have to be installed on your system if dont have installed it then click this link and download https://www.python.org/downloads/ 
  
