@@ -18,7 +18,8 @@ before using your own images just refer the images here for sample.
 
 2.copy and paste the code as i did in jupyter. 
 
-3.pass the correct path of your image and run the program as one by one tags.
+3.pass the correct path of your image in image = img.imread("give the exact image path")
+and run the program as one by one tags.
 
 4.focus on final tag and see the output is obtained or not. because There is the output showen.
 
