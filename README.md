@@ -10,8 +10,17 @@ prerequists:
  3.before all these software things, better have a good hardware like atleast 4gb ram, pentium and 500gb internal memory. if you can afford an efficient system then you can.
  
  4.get installed with packages like numpy, pandas, matplotlib, opencv, easyocr and tensorflow on jupyter.
+ 
+ 5.commands to install packages:
+ pip install numpy
+ pip install pandas
+ pip install matplotlib
+ pip install opencv-python (or) pip install cv2
+ pip install easyocr
+ pip install tensorflow
+ 
 
-steps to use:
+steps to be followed:
 
 1.download the clear image from internet. or else use the images that i provided here. if you have images on your own hand then you it also. but it must be clear.
 before using your own images just refer the images here for sample.
