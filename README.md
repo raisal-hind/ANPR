@@ -12,12 +12,20 @@ prerequists:
  4.get installed with packages like numpy, pandas, matplotlib, opencv, easyocr and tensorflow on jupyter.
  
  5.commands to install packages:
+ 
  pip install numpy
+ 
  pip install pandas
+ 
  pip install matplotlib
+ 
  pip install opencv-python (or) pip install cv2
+ 
  pip install easyocr
+ 
  pip install tensorflow
+ 
+ just copy & paste the commands on jupyter notebook and run one by one
  
 
 steps to be followed:
