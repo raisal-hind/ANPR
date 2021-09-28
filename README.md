@@ -16,4 +16,10 @@ steps to use:
 1.download the clear image from internet. or else use the images that i provided here. if you have images on your own hand then you it also. but it must be clear.
 before using your own images just refer the images here for sample.
 
-2.give the correct path of your image and run the program.
+2.copy and paste the code as i did in jupyter. 
+
+3.pass the correct path of your image and run the program as one by one tags.
+
+4.focus on final tag and see the output is obtained or not. because There is the output showen.
+
+5.use latest things like software/hardware for better expecting output/Result.
