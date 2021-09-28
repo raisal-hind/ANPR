@@ -21,6 +21,6 @@ before using your own images just refer the images here for sample.
 3.pass the correct path of your image in image = img.imread("give the exact image path")
 and run the program as one by one tags.
 
-4.focus on final tag and see the output is obtained or not. because There is the output showen.
+4.focus on final tag and see the output is obtained or not. because There is the output shown.
 
 5.use latest things like software/hardware for better expecting output/Result.
