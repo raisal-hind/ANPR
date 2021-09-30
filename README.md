@@ -37,10 +37,10 @@ commands to install packages:
  just copy & paste the commands on jupyter notebook and run one by one
 
 
-3.click the ANPR or ALPR.ipynb file, copy and paste the code as i did in jupyter. 
+3.click the ANPR or ALPR.ipynb file, copy and paste the code as i did in jupyter. check Screenshot (12).png
 
 4.pass the correct path of your image in image = img.imread("give the exact image path")
-and run the program as one by one tags.
+and run the program as one by one tags. check Screenshot (13).png
 
 5.focus on final tag and see the output is obtained or not. because There is the output shown.
 
