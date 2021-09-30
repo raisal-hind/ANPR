@@ -47,4 +47,4 @@ and run the program as one by one tags.
 6.use latest things like software/hardware for better expecting output/Result.
 
 
-see this video to know the setting up the environment https://www.youtube.com/watch?v=XCvgyvBFjyM  from 00:29 seconds
+see this video to know setting up the environment https://www.youtube.com/watch?v=XCvgyvBFjyM  from 00:29 seconds
