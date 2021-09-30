@@ -20,7 +20,7 @@ before using your own images just refer the images here for sample.
 
 2.get installed with packages like numpy, pandas, matplotlib, opencv, easyocr and tensorflow on jupyter.
  
-commands to install packages:
+commands to install packages on jupyter:
  
  pip install numpy
  
@@ -34,7 +34,7 @@ commands to install packages:
  
  pip install tensorflow
  
- just copy & paste the commands on jupyter notebook and run one by one
+ just copy & paste the commands on jupyter notebook and run one by one. if you love to use Anaconda powershell prompt(Miniconda 3), then using conda instead of pip to  install the modules. example: conda install numpy
 
 
 3.click the ANPR or ALPR.ipynb file, copy and paste the code as i did in jupyter. check Screenshot (12).png
