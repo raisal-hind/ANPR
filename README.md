@@ -32,6 +32,18 @@ commands to install packages on jupyter:
  
  pip install easyocr
  
+ pip install torchvision
+ 
+ pip install python-bidi
+ 
+ pip install PyYAML
+ 
+ pip install imutils
+ 
+ pip install torch
+ 
+ pip install scikit-image
+ 
  pip install tensorflow
  
  just copy & paste the commands on jupyter notebook and run one by one. if you love to use Anaconda powershell prompt(Miniconda 3), then using conda instead of pip to  install the modules. example: conda install numpy
