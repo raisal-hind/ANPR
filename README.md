@@ -32,6 +32,8 @@ commands to install packages on jupyter:
  
  pip install easyocr
  
+ pip install matplotlib-inline
+ 
  pip install torchvision
  
  pip install python-bidi
