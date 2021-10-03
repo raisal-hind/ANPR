@@ -62,3 +62,5 @@ and run the program as one by one tags. check Screenshot (13).png
 
 
 see this video to know setting up the environment https://www.youtube.com/watch?v=XCvgyvBFjyM  from 00:29 seconds on windows
+
+To know more about this visit https://en.wikipedia.org/wiki/Automatic_number-plate_recognition
